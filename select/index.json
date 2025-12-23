@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Offline Saga",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-23T10:15:47.831363Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Offline Saga feat. 水槽",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Offline_Saga_feat._水槽_Empty_old_City.txt"
+    }
+  ]
+}
